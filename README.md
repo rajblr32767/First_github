@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A tiny calculator built with plain HTML, CSS and JavaScript. Used to demo Git, GitHub and CI with GitHub Actions.
+A tiny calculator built with plain HTML, CSS and JavaScript. Used to demo Git, GitHub and CI with GitHub Actions. changes made
 
 ## Run it
 
